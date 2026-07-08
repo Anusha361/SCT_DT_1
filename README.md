@@ -1,4 +1,5 @@
 Task-1: Excel Sales Dashboard - Data Analysis Project
+
 📊 Project Overview
 This is Task-1 of my data analysis portfolio, where I have replicated an Excel-style Sales Dashboard using Python. The project demonstrates comprehensive data analysis skills including data cleaning, pivot table creation, conditional formatting, and interactive data visualization. The dashboard provides actionable business insights from sales data, mimicking real-world business intelligence reporting.
 
