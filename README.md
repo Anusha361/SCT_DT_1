@@ -63,8 +63,12 @@ Scatter Plot
 Interactive Plotly Dashboard
 
 📁 Project Structure
+
 Sales-Dashboard-Analysis/
+
 │
+
 ├── Sales_Dashboard.ipynb
+
 ├── README.md
 └── requirements.txt# SCT_DT_1
